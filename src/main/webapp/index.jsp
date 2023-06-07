@@ -1,11 +1,11 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
-<h2>Learn Here.. Lead Anywhere..!! </h2>
+<h1><font color='red'> Welcome to Basith Webpage this project for the leanring purpose <font></h1>
+<h2>Keep on Leanring!! </h2>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://www.atlassian.com/software/confluence/templates/devops-runbook">Click Here To See Devops deocument in Google</a>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
+  <h2> My Phone number is +9940117223 </h2>
 
 </body>
 </html>
