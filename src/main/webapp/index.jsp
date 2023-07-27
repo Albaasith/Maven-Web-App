@@ -1,11 +1,11 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Basith Webpage this project for the leanring purpose <font></h1>
-<h2>Keep on Leanring!! </h2>
+<h1><font color='red'> Testing for the CICD_Deployment using T24 Product <font></h1>
+<h2> Deployed Succesfull </h2>
 
-<a href="https://www.atlassian.com/software/confluence/templates/devops-runbook">Click Here To See Devops deocument in Google</a>
+<a href="http://10.1.1.10:8080/BrowserWeb/servlet/BrowserServlet">Temenos Transact Web Application</a>
   
-  <h2> My Phone number is +9940117223 </h2>
+  <h2> Click the above click for login with succesfull </h2>
 
 </body>
 </html>
